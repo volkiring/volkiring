@@ -1,4 +1,6 @@
 <img src="header.png">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71C17C&background=52000000&width=435&lines=Student+of+NOSU+(Vladikavkaz%2C+Russia)" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71C17C&background=52000000&width=435&lines=Student+of+NOSU+(Vladikavkaz%2C+Russia)" alt="Typing SVG" /></a>
 <!--
 **volkiring/volkiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
