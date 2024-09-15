@@ -1,5 +1,4 @@
-<img src="header.png" alt="">
-
+<img src="header.png">
 <!--
 **volkiring/volkiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
