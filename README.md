@@ -6,7 +6,7 @@
 ```javascript
 var aboutMe = {
   pronouns: "he" | "his",
-  code: [C#, JavaScript],
+  code: [C#],
   tools: [],
   architecture: [],
   techCommunities: {
